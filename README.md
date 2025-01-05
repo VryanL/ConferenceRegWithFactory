@@ -1,0 +1,2 @@
+# ConferenceRegWithFactory
+ extention to ConferenceRegistration
